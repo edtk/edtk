@@ -5,7 +5,6 @@
 #### ✅ Top Rated Plus Freelancer ⭐⭐⭐⭐⭐ https://www.upwork.com/freelancers/~010cfd83eaf0a5e632
 #### ✅ Certified Specialist 📚
 #### ✅ Just a nice guy 😄
-<br>
 
 #### 📘 BACK-END
 - Frameworks: Gin, Laravel, Express.js, Django, Flask.
