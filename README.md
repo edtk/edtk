@@ -1,6 +1,6 @@
 ### Senior Web Software Engineer
 
-🏆 I am a **GoLang** & **React.js** / **Django** / Flask / Laravel / Express.js expert with more than 6 years of web development experience. **GoLang** / **Python** & **React.js** is my primary competence for the past few years. I know the ins and outs and can make stable, maintainable and scalable server-side applications. If anything pops up, please feel free to contact me. Free advice, caring and the involved listener is guaranteed!
+🏆 I am a **GoLang** & **React.js** / **Django** / Flask / FastAPI / Next.js expert with more than 6 years of web development experience. **GoLang** / **Python** & **React.js** is my primary competence for the past few years. I know the ins and outs and can make stable, maintainable and scalable server-side applications. If anything pops up, please feel free to contact me. Free advice, caring and the involved listener is guaranteed!
 
 ✅ **Top Rated Plus Freelancer** at UpWork. **40 successfully completed contracts**: https://www.upwork.com/freelancers/~010cfd83eaf0a5e632 <br>
 
