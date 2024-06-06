@@ -1,8 +1,8 @@
 ### Senior Web Software Engineer
 
-🏆 I am a **GoLang** & **React.js** / **Django** / Flask / FastAPI / Next.js expert with more than 6 years of web development experience. **GoLang** / **Python** & **React.js** is my primary competence for the past few years. I know the ins and outs and can make stable, maintainable and scalable server-side applications. If anything pops up, please feel free to contact me. Free advice, caring and the involved listener is guaranteed!
+🏆 I am a **GoLang**, **Python** and **React.js** expert with over **6 years of web development experience**. These technologies have been my primary focus for the past few years, allowing me to **build stable**, **maintainable**, and **scalable server-side applications**. If anything comes up, please feel free to contact me. Free advice, care, and attentive listening are guaranteed!
 
-✅ **Top Rated Plus Freelancer** at UpWork. **40 successfully completed contracts**: https://www.upwork.com/freelancers/~010cfd83eaf0a5e632 <br>
+⭐ **Top Rated Plus Freelancer** at UpWork, I have **successfully completed 41 contracts**, all with 5-star ratings, demonstrating my commitment to delivering high-quality results and client satisfaction: https://www.upwork.com/freelancers/~010cfd83eaf0a5e632 <br>
 
 <img align="left" alt="GoLang" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 
@@ -10,7 +10,7 @@
 
 <img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align="left" alt="AWS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+[//]: # (<img align="left" alt="AWS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />)
 
 <img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
