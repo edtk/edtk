@@ -1,6 +1,6 @@
 ### Senior Web Software Engineer
 
-🏆 I am a **GoLang**, **Python** and **React.js** expert with over **6 years of web development experience**. These technologies have been my primary focus for the past few years, allowing me to **build stable**, **maintainable**, and **scalable server-side applications**. If anything comes up, please feel free to contact me. Free advice, care, and attentive listening are guaranteed!
+🏆 I am a **GoLang**, **Python** and **React.js** expert with over **8 years of web development experience**. These technologies have been my primary focus for the past few years, allowing me to **build stable**, **maintainable**, and **scalable server-side applications**. If anything comes up, please feel free to contact me. Free advice, care, and attentive listening are guaranteed!
 
 ⭐ **Top Rated Plus Freelancer** at UpWork, I have **successfully completed 41 contracts**, all with 5-star ratings, demonstrating my commitment to delivering high-quality results and client satisfaction: https://www.upwork.com/freelancers/~010cfd83eaf0a5e632 <br>
 
